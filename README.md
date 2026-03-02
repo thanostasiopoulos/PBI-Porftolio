@@ -76,7 +76,7 @@ The model follows best practices:
 ![Executive Overview](assets/Sales%20Analytics%20-%20Executive%20Overview.jpg)
 
 ### Sales Performance 
-![Sales Analysis](assets/Sales Analytics - Sales Performance.jpg)
+![Sales Analysis](assets/Sales%20Analytics%20-%20Sales%20Performance.jpg)
 
 ### Profitability Insights
 ![Profitability Insights](assets/Sales Analytics - Profitability Insights.jpg)
@@ -112,3 +112,4 @@ The purpose of this project is to demonstrate:
 ## 📬 Contact
 
 If you’d like to discuss this project or collaborate, feel free to connect.
+

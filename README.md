@@ -73,7 +73,7 @@ The model follows best practices:
 ## 📊 Report Screenshots
 
 ### Executive Overview
-![Executive Overview](assets/Sales Analytics - Executive Overview.jpg)
+![Executive Overview](assets/Sales%20Analytics%20-%20Executive%20Overview.jpg)
 
 ### Sales Performance 
 ![Sales Analysis](assets/Sales Analytics - Sales Performance.jpg)

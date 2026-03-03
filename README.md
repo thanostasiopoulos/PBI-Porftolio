@@ -85,7 +85,7 @@ The model follows best practices:
 ![Store Performance](assets/Sales Analytics - Store Performance.jpg)
 
 ### Promotion Effectiveness
-![Promotions effectiveness](assets/Sales Analytics - Promotions Effectiveness.jpg)
+![Promotions Effectiveness](assets/Sales%20Analytics%20-%20Promotion%20Effectiveness.jpg)
 
 ---
 

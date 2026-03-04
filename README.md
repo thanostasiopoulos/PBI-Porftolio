@@ -79,7 +79,7 @@ The model follows best practices:
 ![Sales Analysis](assets/Sales%20Analytics%20-%20Sales%20Performance.jpg)
 
 ### Profitability Insights
-![Profitability Insights](assets/Sales Analytics - Profitability Insights.jpg)
+![Profitability Insights](assets/Sales%20Analytics%20-%20Profitability%20Insights.jpg)
 
 ### Store Performance
 ![Store Performance](assets/Sales Analytics - Store Performance.jpg)

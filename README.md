@@ -14,6 +14,7 @@ The report is built using a clean **star schema**:
 
 - **Fact Table**
   - FactSales
+  - FactSalesQuota
 
 - **Dimension Tables**
   - DimDate
@@ -25,6 +26,7 @@ The report is built using a clean **star schema**:
   - DimChannel
   - DimPromotion
   - DimGeography
+  - DimScenario
 
 The model follows best practices:
 - Single-direction relationships
@@ -55,6 +57,7 @@ The model follows best practices:
 - Dynamic Top-N product ranking
 - Geographic performance analysis
 - Promotion impact evaluation
+- Calculation groups
 - Clean star schema modeling
 - Modern report design
 
@@ -82,7 +85,7 @@ The model follows best practices:
 ![Profitability Insights](assets/Sales%20Analytics%20-%20Profitability%20Insights.jpg)
 
 ### Store Performance
-![Store Performance](assets/Sales Analytics - Store Performance.jpg)
+![Store Performance](assets/Sales%20Analytics%20-%20Store%20Performance.jpg)
 
 ### Promotion Effectiveness
 ![Promotions Effectiveness](assets/Sales%20Analytics%20-%20Promotion%20Effectiveness.jpg)
